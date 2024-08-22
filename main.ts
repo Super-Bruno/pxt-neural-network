@@ -40,7 +40,7 @@ namespace neuralNetwork {
 
         if (net >= 0) {
             basic.showLeds(`
-                # # # # #
+                # . # # #
                 # # # # #
                 # # # # #
                 # # # # #
